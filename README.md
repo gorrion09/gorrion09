@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
 </span>
 
-<h2 align="center" style="margin: 5px 10px;">GitHub stats:</h2>
+<h2>GitHub stats:</h2>
 
-[![](https://github.com-readme.statc.vercel.app/api?username=elanza-48&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/gorrion09)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=elanza-48&theme=material-palenight)](https://github.com/gorrion09)
+[![](https://github-readme-stats.vercel.app/api?username=gorrion09&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/gorrion09)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=gorrion09&theme=material-palenight)](https://github.com/gorrion09)

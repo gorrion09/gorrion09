@@ -2,19 +2,20 @@
 <span>
   <h2> About me </h2>
 <ul>
-<li>💻 "Estudiante de Desarrollo de Aplicaciones Web"</li>
-<li>🌱 "Actualmente aprendiendo tecnologías front-end y back-end para crear aplicaciones web completas."</li>
-<li>🛠️ "Desarrollador en formación, aprendiendo nuevos lenguajes"</li>
+<li>💻 "Web Application Development Student"</li>
+<li>🌱 "Currently learning front-end and back-end technologies to create complete web applications."</li>
+<li>🛠️ "Developer in training, exploring new programming languages."</li>
 </ul>
 </span>
 
 <span>
   <h2> My skills </h2>
 <ul>
-<li> 👨‍💻 "Apasionado por resolver problemas y aprender algo nuevo cada día."</li>
-<li>🌟 "Comprometido con escribir código limpio y eficiente."</li>
-<li>🔧 "Construyendo una base sólida para un futuro como desarrollador web."</li>
+<li> 👨‍💻 "Passionate about solving problems and learning something new every day."</li>
+<li>🌟 "Dedicated to writing clean and efficient code."</li>
+<li>🔧 "Building a strong foundation for a future as a web developer."</li>
 </ul>
+
 </span>
   
 <h3> Learned languages </h3>
